@@ -1,0 +1,36 @@
+
+body{
+    background-color: black;
+    color: white;
+}
+
+a{
+    color: white;
+}
+a:hover{
+    color: orange;
+}
+
+#first{
+    width: 30%;
+    height: 70%;
+    margin-left:10px ;
+}
+#second{
+    width: 30%;
+    height: 70%;
+    margin-left: 210px;
+    margin-top: -510px;
+}
+#third{
+    width: 30%;
+    height: 70%;
+    margin-left: 410px;
+    margin-top: -510px;
+
+}
+h1{
+    font-family: 'Anton';
+    font-size: xx-large;
+    
+}
